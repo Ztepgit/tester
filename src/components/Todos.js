@@ -35,7 +35,7 @@ const Todos = (props) => {
       setTodo("");
     }
   };
-  //console.log("props from store", props);
+  
   return (
     <div className="addTodos">
       <input
